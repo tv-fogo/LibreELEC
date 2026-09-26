@@ -25,7 +25,7 @@
 
 # Baixe a imagem:
 
-# https://github.com/glorioso-tv/LibreELEC/releases/download/LibreELEC/multitool.img
+# https://github.com/tv-fogo/LibreELEC/releases/download/LibreELEC/multitool.img
 
 
 ############################################################
@@ -132,7 +132,7 @@ sudo eject /dev/sdc
 
 # Exemplo de imagem recomendada:
 
-# https://github.com/glorioso-tv/LibreELEC/releases/download/LibreELEC/LibreELEC-RK322X.arm-12.0-nightly-20250218-6a1e364-rk322x.img
+# https://github.com/tv-fogo/LibreELEC/releases/download/LibreELEC/LibreELEC-RK322X.arm-12.0-nightly-20250218-6a1e364-rk322x.img
 
 
 ############################################################
